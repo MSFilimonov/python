@@ -1,0 +1,5 @@
+name = str(input('Введите ваше имя: '))
+years = int(input('Укажите ваш возраст: '))
+print(type(name))
+print(type(years))
+print('Привет',name,'вам точно',years,'?')
